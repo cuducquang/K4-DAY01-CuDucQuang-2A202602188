@@ -2,7 +2,7 @@
 
 **Ngày chạy:** 11/09/2026
 
-**Runtime Colab:** Thiết bị CPU/GPU không được lưu trong thư mục output đã xuất.
+**Runtime Colab:** T4 GPU
 
 **Python / PyTorch / Ultralytics:** Python và PyTorch không được lưu trong thư mục output; Ultralytics `8.4.145` được ghi trong cả ba JSON.
 
