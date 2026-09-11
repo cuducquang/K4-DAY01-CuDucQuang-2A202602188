@@ -71,5 +71,5 @@ Nguồn evidence: `segmentation_predictions.json` và `visuals/segmentation_pred
 - [x] `visuals/classification_top5.png`
 - [x] `visuals/detection_predictions.png`
 - [x] `visuals/segmentation_prediction.png`
-- [x] Ô validation cuối notebook báo `PASS`.
+- [x] Ô `validate-and-archive` báo `PASS`; ô đóng gói Drive cuối chưa PASS vì `KHOA = "KX"` vẫn là placeholder và cần thay bằng mã khóa trước khi chạy.
 - [x] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output.
